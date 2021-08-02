@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @official_sameer. ",
-      "value": "@Copycat_Spam",
+      "value": "@Copycat_Bot_User",
       "required": false
     },
     "ALIVE_MSG": {
@@ -54,7 +54,7 @@
     },
     "PM_PERMIT_GROUP_ID": {
       "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
-      "value": "-561051616",
+      "value": "-1001527854754",
       "required": false
     },
     "APP_ID": {
@@ -92,19 +92,19 @@
     },
     "PLUGIN_CHANNEL": {
       "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-561051616"
+      "value": "-1001527854754"
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "create a private channel and then type .get_id add that value here for save messages",
-      "value": "-561051616"
+      "value": "-1001527854754"
     },
     "PRIVATE_GROUP_ID": {
       "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-561051616"
+      "value": "-1001527854754"
     },
     "PM_LOGGR_BOT_API_ID": {
        "description": "for login private messages create a private channel and do .get_id and add that id", 
-       "value": "-561051616"
+       "value": "-1001527854754"
     }, 
     "STRING_SESSION": {
       "description": "Get this value by running https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py ",
