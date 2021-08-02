@@ -34,7 +34,7 @@
     },                 
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive and .awake command. Leave blank for default pic.",
-      "value": "https://telegra.ph/file/5bb2ae9514d561c440879.jpg",
+      "value": "https://telegra.ph/file/83dd631659a50444988aa.jpg",
       "required": false
     },
     "BIO_MSG": {
@@ -44,12 +44,12 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/5bb2ae9514d561c440879.jpg",
+      "value": "https://telegra.ph/file/0f1f6634cf402f464ddd2.jpg",
       "required": false
     },
     "CUSTOM_PMPERMIT": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "PLEASE DO NOT SPAM MY DM, I WILL REPLY YOU AFTER COME BACK ONLINE!",
+      "value": "PLEASE DO NOT SPAM MY OP MASTER DM, HE WILL REPLY YOU AFTER COME BACK ONLINE!",
       "required": false
     },
     "PM_PERMIT_GROUP_ID": {
