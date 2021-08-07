@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @official_sameer. ",
-      "value": "@Copycat_Bot_User",
+      "value": "#Op Copycat User",
       "required": false
     },
     "ALIVE_MSG": {
@@ -59,7 +59,7 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": "6234360"
+      "value": "2730123"
     },
     "REM_BG_API_KEY": {
       "description": "Required for Removing image background. Get your api key from https://www.remove.bg/",
@@ -88,7 +88,7 @@
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
-      "value": "efb9acf74b73b9f2228aa0a5be233d4a"
+      "value": "c180ae374f350ed3e6f9d4edec3e147c"
     },
     "PLUGIN_CHANNEL": {
       "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
@@ -122,7 +122,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": "1822479132:AAFviUPePtmGec7krGUWs59SIRLYSdFNmnQ"
+      "value": "1916793561:AAFXwhZ22AnvQhOyzokv86297cyx58YfE-k"
     },
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
@@ -136,7 +136,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@Copy_Cat_Spam_Bot"
+      "value": "@Copycat_Spam_Userbot"
     },
     "OPEN_WEATHER_MAP_APPID": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
